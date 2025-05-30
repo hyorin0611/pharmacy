@@ -1,0 +1,7 @@
+cd C:\Users\User\gemini_chatbot
+.\venv\Scripts\Activate
+pip install google-generativeai
+
+.\venv\Scripts\activate
+
+streamlit run app.py
